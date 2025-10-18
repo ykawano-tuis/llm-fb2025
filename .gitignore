@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# virtualenv
+.venv/
+venv/
+env/
+.env
+.envrc
+pip-selfcheck.json
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# logs, outputs, results
+*.log
+results.json
+*.patch
+
+# system
+Thumbs.db
+.DS_Store
+
